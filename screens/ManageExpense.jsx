@@ -1,6 +1,6 @@
 import { View, Text } from "react-native";
 
-const ManageExpenses = () => {
+const ManageExpense = () => {
   return (
     <View>
         <Text>Manage Expenses Screen</Text>
@@ -8,4 +8,4 @@ const ManageExpenses = () => {
   )
 }
 
-export default ManageExpenses
+export default ManageExpense
